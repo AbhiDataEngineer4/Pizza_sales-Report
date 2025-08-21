@@ -46,3 +46,29 @@
 ----Top 5 Worst Sellers by Revenue
 
 <img width="437" height="152" alt="13" src="https://github.com/user-attachments/assets/be322e38-11f0-48ed-b1b9-19b52beee641" />
+
+
+
+🍕 Pizza Sales Analysis (SQL + Power BI)
+📌 Project Overview
+
+This project focuses on analyzing Pizza Sales Data using SQL for data cleaning & analysis, and Power BI for creating an interactive dashboard.
+The goal is to uncover key business insights such as sales trends, customer behavior, and product performance that can help improve decision-making.
+
+🛠 Tools & Technologies
+
+SQL (MySQL / PostgreSQL) → Data cleaning, transformation, and querying
+
+Power BI → Interactive dashboard & visualizations
+
+Excel/CSV → Dataset source
+
+🔑 Key Insights
+
+📊 Daily & Monthly Sales Trends → Identified peak sales days
+
+💰 Average Order Value (AOV) → Measured customer spending behavior
+
+🍕 Best & Worst Performing Pizzas → Categories & sizes contributing most to revenue
+
+📈 % Sales Contribution → By category and size
